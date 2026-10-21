@@ -13,7 +13,7 @@ I enjoy working inside existing codebases, improving them, and sharing what I le
 [![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)]()
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)]()
-[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white)]()
+[![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white)]()
 [![REST APIs](https://img.shields.io/badge/REST%20APIs-6DB33F?logo=fastapi&logoColor=white)]()
 
 **Databases**
